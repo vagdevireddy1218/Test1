@@ -33,3 +33,4 @@ mlflow.sklearn.autolog()
 lr = LogisticRegression(**params)
 lr.fit(X_train, y_train)
 
+print ("ABC")
